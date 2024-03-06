@@ -55,8 +55,8 @@ theme_custom <- function(legend = FALSE) {
       legend.key.size = unit(0.6, "cm"), 
       legend.text = element_text(size = 15.5), 
       legend.spacing.x = unit(0.25, "cm"),
-      legend.margin = margin(0, 0, 7.5, 0)
-    ) 
+      legend.margin = margin(0, 0, 7.5, 0) 
+      ) 
   }
   
   # Return the custom theme 
